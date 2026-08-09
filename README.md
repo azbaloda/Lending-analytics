@@ -3,6 +3,8 @@
 ## **What is this Project About?** <br>
 High-level overview of digital lending personal loan analytics of 100,000+ borrowers, applications, bureau underwriting logs, and repayments.
 
+### **Data Source:** Simulated Synthetic Financial & Bureau Dataset (100,000+ Records) engineered using Python to model Indian Fintech & Credit Bureau Underwriting Architecture.
+
 ### **Table Names & Column Definitions:** <br>
 **users:** Demographics <br>
 columns - user_id, gender, age, state_name, city_tier, education, profession, employment_type, monthly_income, existing_cibil_score <br>
